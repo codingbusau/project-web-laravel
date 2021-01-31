@@ -1,0 +1,30 @@
+#footer {
+    background-image: url("../../image/footer1.jpg");
+    text-align: center;
+}
+.sosmed img {
+    padding: 10px;
+    position: relative;
+}
+.footer-item {
+    margin-top: 50px;
+    flex: 1;
+    padding: 50px;
+}
+.footer-item h2 {
+    text-align: center;
+}
+.footer-menu ul {
+    position: relative;
+}
+.footer-menu ul li {
+    display: inline-block;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+}
+.footer-menu ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
