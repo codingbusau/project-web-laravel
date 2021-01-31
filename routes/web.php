@@ -8,6 +8,10 @@ Route::get('/', function () {
     return view('login');
 });
 
+Route::get('/coba', function () {
+    return view('login1');
+});
+
 Route::get('/pegawai', [pegawaicontroller::class, 'index']);
 Route::get('/pegawai/create', [pegawaicontroller::class, 'create']);
 Route::post('pegawai/', [pegawaicontroller::class, 'store']);

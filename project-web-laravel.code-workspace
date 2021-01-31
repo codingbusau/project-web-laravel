@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\sencha-workstation\\contoh\\rizkipurnomoaji"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\Tugas"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\ProjectWebTeknologi"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\UAS_Web_Platforms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Wallpaper"
+	}
+}
